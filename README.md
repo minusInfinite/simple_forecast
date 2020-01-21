@@ -17,6 +17,8 @@ An API Key and The Latitude and Longitude of the City you want the weather from.
 
 The easiest way I find to get a cities Latitude and Longitude is from a Google Map URL.
 
+**Credits**
+Weather Icons by Erik Flowers - https://erikflowers.github.io/weather-icons/
 
 Enjoy
 
