@@ -1,0 +1,4 @@
+[Variables]
+dsapikey=
+lat=
+long=
