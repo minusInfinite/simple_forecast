@@ -2,10 +2,9 @@
 
 ![Preview](https://i.imgur.com/vQEpxld.png)
 
-**A Rainmeter Weather Skin showing Current plus a two day forecast**
+## A Rainmeter Weather Skin showing Current plus a two day forecast ##
 
-After a lot of testing and phasing I've put together a small Weather forecast Skin to use with Rainmeter. 
-The Skin is [Powered by Dark Sky](https://darksky.net/poweredby/) 
+The Skin is [Powered by Dark Sky](https://darksky.net/poweredby/)
 
 ### Installation
 
@@ -13,9 +12,9 @@ The Skin is [Powered by Dark Sky](https://darksky.net/poweredby/)
 * Download the lastest Release - https://github.com/minusInfinite/simple_forecast/releases
 
 The Skin needs additional details entered into the @Resources/setup.inc file order to operate.
-An API Key and The Latitude and Longitude of the City you want the weather from. 
+An API Key and The Latitude and Longitude of the City you want the weather forecast for. 
 
-The easiest way I find to get a cities Latitude and Longitude is from a Google Map URL.
+The easiest way I to get a cities Latitude and Longitude is from a Google Map URL.
 
 Weather Icons by Erik Flowers - https://erikflowers.github.io/weather-icons/
 
