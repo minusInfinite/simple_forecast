@@ -1,4 +1,5 @@
 [Variables]
-dsapikey=
+owmapikey=
 lat=
 long=
+units=
